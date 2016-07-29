@@ -6,7 +6,7 @@ I have a couple of services running on my home server. Sometimes I need them to 
 ## installation
 `go get github.com/rogierlommers/go-gmail-sender`
 
-## Example usage
+## example usage
 ```
 	// setup client
 	user := "your@gmail.address"
